@@ -1,2 +1,2 @@
-# hello-work
-my first Gitlhub Pages Respository
+# WELCOME TO BOSIAKO PROGRAMMING
+HAVE A NICE STAY
